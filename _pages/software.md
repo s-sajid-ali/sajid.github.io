@@ -1,5 +1,5 @@
 ---
-title: "software"
+title: ""
 permalink: /software/
 author_profile: true
 ---
