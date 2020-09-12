@@ -4,7 +4,7 @@ permalink: /slides/
 author_profile: true
 ---
 
-[SASSy](https://github.com/s-sajid-ali/slides/blob/main/SASSy/main.pdf) : Short presentation giving an overview or work done as a WJ Cody fellow at MCS/ANL on "High performance implementation of tomography inversion with error correction."
+[Summer Argonne Student Symposium](https://github.com/s-sajid-ali/slides/blob/main/SASSy/main.pdf) : Short presentation giving an overview or work done as a WJ Cody fellow at MCS/ANL on "High performance implementation of tomography inversion with error correction."
 
 [XSD Coffee Talk](https://github.com/s-sajid-ali/slides/blob/main/xsd_coffee_talk/main.pdf) : Seminar given as part of the XSD Coffee Talk series at APS on "Effect of tilt on zone plate performance".
 
