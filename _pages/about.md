@@ -8,8 +8,6 @@ redirect_from:
 ---
 
 
-I am a fifth year PhD candidate in the Applied Physics Program at Northwestern University. I work in the ([X-ray microscopy group](http://xrm.phys.northwestern.edu/), PI : [Prof. Chris Jacobsen](http://xrm.phys.northwestern.edu/~jacobsen/) ) on computational x-ray diffraction algorithms and imaging techniques. Our group performs experiments at the Advanced Photon Source (among other synchrotrons) and algorithmic research into image reconstructions on the theta supercomputer at ALCF.
-
-My research deals with simulations of zone plates to better understand their tilt misalignment limits and writing programs that calculate x-ray diffraction form inhomogenous matter for large scale objects. I have also led the evaluation of high aspect ratio zone plates fabricated using the MACE technique.
+I am a Research Associate in the Scientific Computing Division at Fermilab. I am involved in two SciDAC4 projects: HEPonHPC and ComPASS4, the former deals with adapting HEP workflows to harness HPC resources, while the latter deals with developing software to model particle accelerators.
 
 Apart from my specific research topics, I'm interested in maintaining tools for scientific computing and contributing to sustainable community driven codes. Feel free to connect with me if your research interests or passions happen to align!
