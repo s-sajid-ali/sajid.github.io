@@ -4,6 +4,12 @@ permalink: /slides/
 author_profile: true
 ---
 
+[CHEP23](https://github.com/s-sajid-ali/slides/blob/main/CHEP23/CHEP23.pdf) : Presentation given at CHEP23 on integrating HEPnOS into ICARUS workflow to harness event-level parallelism.
+
+[ESSA 2023 : 4th Workshop on Extreme-Scale Storage and Analysis](https://github.com/s-sajid-ali/slides/blob/main/ESSA23/IPDPS23.pdf) : Presentation given at ESSA23 (held as part of IEEE IPDPS23) on scaling performance of HEPnOS, a distributed object store desgined for HEP data using NOvA cadidate selection.
+
+[CSAI Directorate Postdoc Meeting](https://github.com/s-sajid-ali/slides/blob/main/CSAID_postdoc/DSSL_postdoc_meet.pdf) : Presentation at the CSAI Directorate at FNAL giving an overview of research output and career plans. 
+
 [New perspectives 22](https://github.com/s-sajid-ali/slides/blob/main/NewPerspectives_22/newperspectives_22.pdf) : Presentation given at New Perspectives conference on evaluating HEPnOS, a distributed object store desgined for HEP data using NOvA cadidate selection.
 
 [ALCF GPU Hackaton 21](https://github.com/s-sajid-ali/slides/blob/main/alcf_gpu_hackathon_21/main.pdf) : Short presentation given at the end of ALCF GPU Hackaton 2021 on the GPU porting achievements, speedup obtained, challenges faced and changes in strategy from initial considerations before the hackathon.
