@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Ali"
 title_separator          : "-"
 name                     : &name "Sajid Ali"
-description              : &description "Graduate Student"
+description              : &description "Research Associate"
 url                      : https://s-sajid-ali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-sajid-ali/s-sajid-ali.github.io"
@@ -110,7 +110,7 @@ author:
   stackoverflow    : 
   steam            :
   tumblr           :
-  twitter          : "_sajid_a"
+  twitter          :
   vine             :
   weibo            :
   xing             :
