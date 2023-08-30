@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "_sajid_a"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Sajid Ali"
-  avatar           : "twitter_profile_pic.jpg"
+  avatar           : "20221002_181113.jpg"
   bio              : "Research Associate"
   employer         : "Fermilab"
   location         : "Chicago,IL"
