@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sajid Ali"
 title_separator          : "-"
 name                     : &name "Sajid Ali"
-description              : &description "Research Associate"
+description              : &description "Senior Research Software Engineer"
 url                      : https://s-sajid-ali.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "s-sajid-ali/s-sajid-ali.github.io"
@@ -83,8 +83,8 @@ author:
   name             : "Sajid Ali"
   avatar           : "20221002_181113.jpg"
   bio              : "Research Associate"
-  employer         : "Fermilab"
-  location         : "Chicago,IL"
+  employer         : "New York University"
+  location         : "New York, NY"
   pubmed           :
   googlescholar    : https://scholar.google.com/citations?hl=en&user=poAoH-oAAAAJ
   email            : sajidali.iitmATgmail.com
